@@ -1,2 +1,0 @@
-# Myomintun
-Myomintun
