@@ -3,52 +3,52 @@
    "files": [    
 
 {
-         "name": "DTAC-NOPRO-1-VIP",
+         "name": "DTAC-NOPRO-1-FREE",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/AWS-IN-DTAC-NOPRO-1.ovpn"
       },
 
 {
-         "name": "DTAC-NOPRO-2-VIP",
+         "name": "DTAC-NOPRO-2-FREE",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/AWS-IN-DTAC-NOPRO-2.ovpn"
       },
 
 {
-         "name": "DTAC-NOPRO-3-VIP",
+         "name": "DTAC-NOPRO-3-FREE",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/AWS-KR-DTAC-NOPRO-1.ovpn"
       },
 
 {
-         "name": "DTAC-NOPRO-4-VIP",
+         "name": "DTAC-NOPRO-4-FREE",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/AWS-SG-DTAC-NOPRO-1.ovpn"
       },
 
 {
-         "name": "DTAC-NOPRO-5-VIP",
+         "name": "DTAC-NOPRO-5-FREE",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/AWS-SG-DTAC-NOPRO-2.ovpn"
       },
 
 {
-         "name": "TRUE-NOPRO-1-VIP",
+         "name": "TRUE-NOPRO-1-FREE",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/AWS-IN-TRUE-NOPRO-1.ovpn"
       },
 
 {
-         "name": "TRUE-NOPRO-2-VIP",
+         "name": "TRUE-NOPRO-2-FREE",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/AWS-IN-TRUE-NOPRO-2.ovpn"
       },
 
 {
-         "name": "TRUE-NOPRO-3-VIP",
+         "name": "TRUE-NOPRO-3-FREE",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/AWS-KR-TRUE-NOPRO-1.ovpn"
       },
 
 {
-         "name": "TRUE-NOPRO-4-VIP",
+         "name": "TRUE-NOPRO-4-FREE",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/AWS-SG-TRUE-NOPRO-1.ovpn"
       },
 
 {
-         "name": "TRUE-NOPRO-2-VIP",
+         "name": "TRUE-NOPRO-2-FREE",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/AWS-SG-TRUE-NOPRO-2.ovpn"
       },
 
@@ -93,6 +93,6 @@
 🔥DTAC Happtword🔥
 \n\n•Vipအကောင့် တစ်လ40ဘတ်ြဖင့်လာရောက်ဝယ်ယူနိုင်ပါတယ်ဗျာ့😊\n•Update 08-04-2022\n\n•Config by Myo Min Tun",
 "title":"ဖိုင်အသစ် အပ်ဒိတ်လုပ်ရန် အင်တာနက်လိုပါသည်" ,
-   "version":21
+   "version":22
 }
 
