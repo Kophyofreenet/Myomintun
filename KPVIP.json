@@ -21,7 +21,7 @@
 
 
 {
-         "namname"TH-Dtac-Happywork-VIP",
+         "name"TH-Dtac-Happywork-VIP",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-HAPPYWORK-VIP.ovpn"
       },
 
@@ -31,6 +31,8 @@
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/DTAC-LINE12app-VIP.ovpn"
       },
 
+
+{
 
          "name": "TH-Dtac-Line12app-VIP",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-LINE12app-VIP.ovpn"
