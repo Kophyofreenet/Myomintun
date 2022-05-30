@@ -15,6 +15,19 @@
 
 
 {
+         "name": "Dtac-Nopro-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/DTAC-NOPRO-VIP.ovpn"
+      },
+
+
+{
+         "name": "TH-Dtac-Nopro-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-NOPRO-VIP.ovpn"
+      },
+      
+
+
+{
          "name": "SG-DTAC-GAME-VIP-01",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/SG-DTAC-GAME-VIP-01.ovpn"
       },
@@ -114,6 +127,18 @@
       },
 
 
+{
+         "name": "True-Nopro-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TRUE-NOPRO-VIP.ovpn"
+      },
+
+
+{
+         "name": "TH-True-Nopro-VIP",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-TRUE-NOPRO-VIP.ovpn"
+      },
+
+
 
 {
          "name": "TH-TRUE-GAME-VIP-01",
@@ -183,5 +208,5 @@
 ✌️Free vpnဖိုင်တွေလည်းထည့်ထားပေးပါတယ်ဗျာ့
 \n\n•VIPအကောင့် တစ်လ၄၀ဘတ်နဲ့ ဝယ်ယူလို့ရပါ၏😊\n•Update 31-05-2022\n\n•Config by Myo Min Tun",
 "title":"ဖိုင်အသစ် အပ်ဒိတ်လုပ်မည်" ,
-   "version":1
+   "version":2
 }
