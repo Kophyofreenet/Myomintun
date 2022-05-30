@@ -3,39 +3,14 @@
    "files": [    
 
 {
-         "name": "Dtac-90Day-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/DTAC-90DAY-VIP.ovpn"
+         "name": "DTAC-FREE-01",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/DTAC-FREE-001.ovpn"
       },
 
 
 {
-         "name": "TH-Dtac-90Day-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-90DAY-VIP.ovpn"
-      },
-
-
-{
-         "name": "Dtac-Happywork-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/DTAC-HAPPYWORK-VIP.ovpn"
-      },
-
-
-{
-         "name": "TH-Dtac-Happywork-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-HAPPYWORK-VIP.ovpn"
-      },
-
-
-{
-         "name": "Dtac-Line12app-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/DTAC-LINE12app-VIP.ovpn"
-      },
-
-
-{
-
-         "name": "TH-Dtac-Line12app-VIP",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-LINE12app-VIP.ovpn"
+         "name": "DTAC-FREE-02",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/DTAC-FREE-002.ovpn"
       },
 
 
@@ -49,20 +24,107 @@
          "name": "TH-Dtac-Nopro-VIP",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-NOPRO-VIP.ovpn"
       },
-
+      
 
 
 {
-         "name": "Dtac-Nopro-01-FREE",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/DTAC-FREE-001.ovpn"
+         "name": "SG-DTAC-GAME-VIP-01",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/SG-DTAC-GAME-VIP-01.ovpn"
       },
 
 
 {
-         "name": "Dtac-Nopro-02-FREE",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/DTAC-FREE-002.ovpn"
+         "name": "SG-DTAC-VIP-01",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/SG-DTAC-VIP-01.ovpn"
       },
 
+
+{
+         "name": "SG-DTAC-VIP-02",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/SG-DTAC-VIP-02.ovpn"
+      },
+
+
+{
+         "name": "SG-DTAC-VIP-03",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/SG-DTAC-VIP-03.ovpn"
+      },
+
+
+{
+         "name": "SG-TRUE-GAME-VIP-01",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/SG-TRUE-GAME-VIP-01.ovpn"
+      },
+
+
+{
+
+         "name": "SG-TRUE-VIP-01",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/SG-TRUE-VIP-01.ovpn"
+      },
+
+
+{
+         "name": "SG-TRUE-VIP-02",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/SG-TRUE-VIP-02.ovpn"
+      },
+
+
+{
+         "name": "SG-TRUE-VIP-03",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/SG-TRUE-VIP-03.ovpn"
+      },
+
+
+
+{
+         "name": "TH-DTAC-GAME-VIP-01",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-GAME-VIP-01.ovpn"
+      },
+
+
+{
+         "name": "TH-DTAC-GAME-VIP-02",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-GAME-VIP-02.ovpn"
+      },
+
+
+
+{
+         "name": "TH-DTAC-VIP-01",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-VIP-01.ovpn"
+      },
+
+
+{
+         "name": "TH-DTAC-VIP-02",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-VIP-02.ovpn"
+      },
+
+
+{
+         "name": "TH-DTAC-VIP-03",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-VIP-03.ovpn"
+      },
+
+
+{
+         "name": "TH-DTAC-VIP-04",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-VIP-04.ovpn"
+      },
+
+
+{
+         "name": "TH-DTAC-VIP-05",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-VIP-05.ovpn"
+      },
+      
+
+
+{
+         "name": "TH-DTAC-VIP-06",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-DTAC-VIP-06.ovpn"
+      },
 
 
 {
@@ -77,27 +139,76 @@
       },
 
 
+
 {
-         "name": "TH-True-Nopro-01-FREE",
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TRUE-FREE-001.ovpn"
+         "name": "TH-TRUE-GAME-VIP-01",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-TRUE-GAME-VIP-01.ovpn"
+      },
+      
+
+{
+         "name": "TH-TRUE-GAME-VIP-02",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-TRUE-GAME-VIP-02.ovpn"
       },
 
 
 {
-         "name": "TH-True-Nopro-02-FREE",
+         "name": "TH-TRUE-VIP-01",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-TRUE-VIP-01.ovpn"
+      },
+
+
+{
+         "name": "TH-TRUE-VIP-02",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-TRUE-VIP-02.ovpn"
+      },
+
+
+{
+         "name": "TH-TRUE-VIP-03",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-TRUE-VIP-03.ovpn"
+      },
+
+
+{
+         "name": "TH-TRUE-VIP-04",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-TRUE-VIP-04.ovpn"
+      },
+
+
+{
+         "name": "TH-TRUE-VIP-05",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-TRUE-VIP-05.ovpn"
+      },
+
+
+{
+         "name": "TH-TRUE-VIP-06",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TH-TRUE-VIP-06.ovpn"
+      },
+
+
+{
+         "name": "TRUE-FREE-001",
+         "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TRUE-FREE-001.ovpn"
+      },
+      
+
+{
+         "name": "TRUE-FREE-002",
          "url": "https://raw.githubusercontent.com/Kophyofreenet/Myomintun/main/TRUE-FREE-002.ovpn"
       }
+      
 
 
    ],
 "message":"
-🔥DTAC Nopro🔥
-🔥DTAC 90Day🔥
-🔥DTAC Line12app🔥
-🔥DTAC Happyword🔥
-🔥TRUE Nopro🔥
-\n\n•TH-VIPအေကာင့္ ္စာ50္
-SG-VIPအေကာင့္ တစ္လစာ40ဘတ္😊\n•Update 11-05-2022\n\n•Config by Myo Min Tun",
-"title":"္အသစ္ အပ္ဒိတ္လုပ္ရန္ Update Now ကိုႏွိပ္ပါ" ,
-   "version":3
+🇸🇬Add Singapore Server🇸🇬
+🇹🇭Add Thailand Server🇹🇭
+Dtac All Pro 🇹🇭 TrueMove Nopro🇹🇭
+✌️Free vpnဖိုင်တွေလည်းထည့်ထားပေးပါတယ်နော်😉
+\n\n•Sg🇸🇬 VIPအကောင့် တစ်လ ၄၀ဘတ်
+Th🇹🇭 VIP အ‌ေကာင့် တစ်လ ၅၀ဘတ်နဲ့ ဝယ်ယူလို့ရပါ၏😊\n•နေ့စွဲ 31-05-2022\n\n•Config by Myo Min Tun",
+"title":"ဖိုင်အသစ် အပ်ဒိတ်လုပ်မည်" ,
+   "version":4
 }
